@@ -33,13 +33,13 @@ Look for [best configurations](#for-good-gameplay) below.
 
 Just enter this line:
 ```bash
-wget https://raw.githubusercontent.com/powerdot/Minecraft-Server-Admin/master/install.sh && chmod +x install.sh && ./install.sh
+wget https://raw.githubusercontent.com/SadlyOfficical/nodejs-mcadmin/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 Or try this one:  
 Enter line:
 ```bash
-wget https://raw.githubusercontent.com/powerdot/Minecraft-Server-Admin/master/install.sh && chmod +x install.sh
+wget https://raw.githubusercontent.com/SadlyOfficical/nodejs-mcadmin/main/install.sh && chmod +x install.sh
 ```
 And then enter:
 ```bash
