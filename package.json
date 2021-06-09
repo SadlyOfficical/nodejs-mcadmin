@@ -1,0 +1,24 @@
+{
+  "name": "minecraft_server",
+  "version": "0.0.10",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.14",
+    "axios": "^0.21.1",
+    "compare-versions": "^3.6.0",
+    "connect-timeout": "^1.9.0",
+    "decompress": "^4.2.1",
+    "download-file": "^0.1.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.9",
+    "js-file-download": "^0.4.11",
+    "lodash": ">=4.17.19",
+    "rimraf": "^3.0.2"
+  }
+}
