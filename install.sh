@@ -76,7 +76,7 @@ printf "\033c"
 echo ""
 echo ""
 echo "####### CONGRATULATIONS! ###################################################"
-echo "Now it's ready to go! Just go to http://<youripaddress>:2020/ and login!"
+echo "Now it's ready to go! Just go to http://<youripaddress>:8080/ and login!"
 echo ""
 echo "####### Your Web Admin Password is #########################################"
 echo $password

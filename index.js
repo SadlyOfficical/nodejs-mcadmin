@@ -62,8 +62,8 @@ async function runExpressServer(){
     public_ip_data = {
         ip
     };
-    console.log(`Login at http://${public_ip_data.ip}:2020 or http://localhost:2020`);
-    app.listen(2020);
+    console.log(`Login at http://${public_ip_data.ip}:8080 or http://localhost:8080`);
+    app.listen(8080);
 }
 
 let game;
